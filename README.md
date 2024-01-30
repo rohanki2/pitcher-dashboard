@@ -1,0 +1,12 @@
+To run this web application, I have created a script that installs all necessary libraries and dependencies as well as starts the project. All that is
+needed is for 'Python3' to be installed. After this, simply navigate to a command line within the "new-project" folder (root directory of project) and run 'python3 start-project.py'.
+From here, copy paste the local host url into a browser and that will take you straight to the page. 
+
+To use the page, select any of the dots to choose a player. Scrolling through is also supported through the use of the left and right arrow keys.
+When viewing a card, click the "view stats" button to see the metrics from the 2023 season. 
+
+NOTE: If during the running of this project, you experience an swc-darwin-arm64 installation error, please click “show in Finder/Control Panel” and then within finder, Open with 
+“Archive utility/Installer”. This is a next.js bug I found if opened on certain types of machines 
+
+To supplement, I have also included a video of the working web page, if for some reason there are any issues. Thank you for taking the time to 
+review my project and I look forward to finding out the next steps in this process.
