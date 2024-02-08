@@ -7,6 +7,3 @@ When viewing a card, click the "view stats" button to see the metrics from the 2
 
 NOTE: If during the running of this project, you experience an swc-darwin-arm64 installation error, please click “show in Finder/Control Panel” and then within finder, Open with 
 “Archive utility/Installer”. This is a next.js bug I found if opened on certain types of machines 
-
-To supplement, I have also included a video of the working web page, if for some reason there are any issues. Thank you for taking the time to 
-review my project and I look forward to finding out the next steps in this process.
