@@ -1,4 +1,4 @@
-**Pitcher Stats Applcation**
+<h4>**Pitcher Stats Applcation**</h4>
 
 This application displays stats for MLB pitchers from the 2023 season. Data was queried from a comprehensive SQL database of every pitch from the 2023 season, and filtered down to important metrics. For the display React and Flask were used to create a carousel display that accurately and easily shows the details for each player.
 
